@@ -3,7 +3,7 @@
 
 ## Table of contents  
 * [Objective](#Objective)
-* [Task Description](#Task-description)
+* [Tables](#Tables)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Postman](#Postman)
@@ -14,9 +14,29 @@
 
 Create a CRUD web application for a blogging platform, incorporating database relationships using Sequelize, and implementing user authentication and authorization.
 
-## Task Description
+## Tables
 
-*
+* Users
+  * id (primary key)
+  * name (string)
+  * email (string)
+  * password (string)
+  * createdAt (datetime)
+  * updatedAt (datetime)
+* Posts
+  * id (primary key)
+  * title (string)
+  * content (text)
+  * createdAt (datetime)
+  * updatedAt (datetime)
+  * UserId (foreign key)
+* Comments
+  * id (primary key)
+  * message (text)
+  * createdAt (datetime)
+  * updatedAt (datetime)
+  * UserId (foreign key)
+  * PostId (foreign key)
 
 ## Installation
 
