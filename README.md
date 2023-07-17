@@ -85,5 +85,34 @@ The above image shows the POST request to login a user.
 
 The above image shows the DELETE request to logout a user.
 
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/15a4d05e-1f27-46ea-93f7-6863ba32fe77" width=60% height=60%>
+
+The above image shows the GET request to retrieve all posts after logging into an account.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/9746dd0c-84e7-4c19-97f2-031a379c611b" width=60% height=60%>
+
+The above images shows the GET request for a specific post by ID after logging into an account.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/b82e7e0e-a269-41ac-ac59-f4b750273a46" width=60% height=60%>
+
+The above image shows the POST request to create a new post as an authorized user.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/92dc2343-abb1-4b7a-8190-082a4afecc53" width=60% height=60%>
+
+The above image shows the PATCH request to edit a post that the logged in user created.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/626b7887-f9f4-4369-91d1-85aab43d389e" width=60% height=60%>
+
+The above image shows the unsuccessful PATCH request to edit a post that the logged in user did not create.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/3247bc1c-9760-4fad-957d-753a2c23f666" width=60% height=60%>
+
+The above image shows the unsuccessful DELETE request to delete a post that the logged in user did not create.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/11482b97-b094-4509-9692-4bacc86882c0" width=60% height=60%>
+
+The above image shows the DELETE request to delete a post that the logged in user created.
+
+
 
 
