@@ -8,7 +8,6 @@
 * [Usage](#Usage)
 * [Postman](#Postman)
 * [Screenshots](#Screenshots)
-* [Server-side Data Validation](#Server-side-data-validation)
   
 ## Objective
 
