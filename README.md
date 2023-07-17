@@ -121,3 +121,17 @@ The above image shows the unsuccessful PATCH request to edit a comment that the 
 
 The above image shows the unsuccessful DELETE request to delete a comment that the logged in user did not create.
 
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/7abefc72-6b9f-4c07-856b-af33d214a58f" width=60% height=60%>
+
+The above image shows the POST request to add a new comment as an authorized user.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/48738d16-0bbc-4f43-8d8a-0c1965d2f846" width=60% height=60%>
+
+The above image shows the PATCH request to edit a comment that the logged in user added.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/8fd20533-f2b0-48a1-9ee4-34222a732bf9" width=60% height=60%>
+
+The above image shows the DELETE request to delete a comment that the logged in user added.
+
+
+
