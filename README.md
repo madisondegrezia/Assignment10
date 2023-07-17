@@ -71,5 +71,19 @@ The following endpoints are available:
 Link to Postman Collection: https://www.postman.com/mdegrezia/workspace/blogging-platform-api/collection/28381226-12442454-c3bd-41db-93b0-cc5b5570ce7e?action=share&creator=28381226
 
 ## Screenshots
+If a user is not logged in, none of the CRUD operations for posts or comments would be successful, ensuring that only authenticated users can access protected routes.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/79c3f23a-c9f3-47d1-82e5-9f06faa9933c" width=60% height=60%>
+
+The above image shows the message and status code that is displayed when an unauthorized user tries to access a protected route.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/187e4daf-57bd-4f04-9d9f-7a6f6f73e1bb" width=60% height=60%>
+
+The above image shows the POST request to login a user.
+
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/4e7f8d1d-a42e-4a6c-ba38-a10af516500b" width=60% height=60%>
+
+The above image shows the DELETE request to logout a user.
+
 
 
