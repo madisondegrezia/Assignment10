@@ -12,7 +12,7 @@
   
 ## Objective
 
-Create a CRUD web application for a blogging platform, incorporating database relationships using Sequelize, and implementing user authentication and authorization.
+To create a CRUD web application for a blogging platform, incorporating database relationships using Sequelize, and implementing user authentication and authorization.
 
 ## Tables
 
