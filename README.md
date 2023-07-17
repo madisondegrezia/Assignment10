@@ -113,6 +113,11 @@ The above image shows the unsuccessful DELETE request to delete a post that the 
 
 The above image shows the DELETE request to delete a post that the logged in user created.
 
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/84974de5-c019-4ca4-b031-2cc209c7db0b" width=60% height=60%>
 
+The above image shows the unsuccessful PATCH request to edit a comment that the logged in user did not create.
 
+<img src="https://github.com/madisondegrezia/Assignment10/assets/89614960/d995e2f2-211d-44f5-a49c-10050772f605" width=60% height=60%>
+
+The above image shows the unsuccessful DELETE request to delete a comment that the logged in user did not create.
 
